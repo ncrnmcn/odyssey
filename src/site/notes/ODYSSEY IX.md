@@ -2,4 +2,6 @@
 {"dg-publish":true,"permalink":"/odyssey-ix/","tags":["gardenEntry"]}
 ---
 
-Test3
+This is the beginning.
+
+[[First Steps\|First Steps]]
