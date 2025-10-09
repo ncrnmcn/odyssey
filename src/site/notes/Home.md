@@ -4,7 +4,7 @@
 
 This is the beginning.
 
-	doesnt like it.
+	doesnt likek it.
 
 [[First Steps\|First Steps]]
 
