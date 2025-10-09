@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"0xH0M3","tags":["gardenEntry"]}
 ---
 
-> [!danger] Fragment not synced with Nomad Core!
-> This site is still under construction.
+> [!danger] Data Fragment 
+> Memory not synced with Odyssey IX Core!
+
 
 `Listen. I cannot talk for long on this channel. I hope you can use the info you find here.`
 
