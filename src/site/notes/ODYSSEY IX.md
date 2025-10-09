@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/odyssey-ix/","title":"echo","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/odyssey-ix/","title":"ODYSSEY IX","tags":["gardenEntry"]}
 ---
 
+This is the beginning.
 
-> [!warning]- Warning, Caution, Attention
+hey
+
+[[First Steps\|First Steps]]
+
+> [!warning]+ Warning, Caution, Attention
 > This site is still under construction.
-
-
-| Test | 1   |
-| ---- | --- |
-| 0    | 0   |
-|      |     |
