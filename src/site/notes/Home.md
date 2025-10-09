@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Odyssey 9 // Home","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"]}
 ---
 
 This is the beginning.
