@@ -6,8 +6,5 @@
 > Memory not synced with Odyssey IX Core!
 
 
-`>Listen. I cannot talk for long on this channel. I hope you can use the info you find here.`
+`>Listen. I cannot talk for long on this channel. I hope you can use the info you find here. Nomad out.`
 
-[[Test\|Test]]
-
-He did not seem to like that.
